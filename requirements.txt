@@ -11,9 +11,16 @@ aiogram==2.19
 grapheme==0.6.0
 emoji==2.1.0
 werkzeug==2.2.2
+<<<<<<< HEAD
 psutil==5.9.4
 tgcrypto==1.2.5
 rsa==4.9
 ruamel.yaml==0.17.21
+=======
+psutil==6.0.0
+tgcrypto==1.2.5
+rsa==4.9
+ruamel.yaml==0.17.10
+>>>>>>> a2c4d25 (change)
 
 # Python 3.8+
